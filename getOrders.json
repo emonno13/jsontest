@@ -3,36 +3,42 @@
       "order_id":"3a54044bc1fbc696a79be52cde3828377892FA71D8D1EAEBE438135718A5C4202920660",
       "time":"2016-03-31 00:00:00",
       "user_id":"7892FA71D8D1EAEBE438135718A5C420",
-      "product_id":"2920660"
+      "product_id":"2920660",
+      "img":"https://product-images.barneys.com/is/image/Barneys/505555722_1_BagFront?$pdp_flexH$"
    },
    { 
       "order_id":"baaf970c66c5d8a776453f236c5b81c2B97940E3D8C9B61F4454B8CB6E630B702920660",
       "time":"2016-03-31 20:09:00",
       "user_id":"B97940E3D8C9B61F4454B8CB6E630B70",
-      "product_id":"2920660"
+      "product_id":"2920660",
+      "img":"https://product-images.barneys.com/is/image/Barneys/505555722_1_BagFront?$pdp_flexH$"
    },
    { 
       "order_id":"28857f967a86c01e7ed54bd7e7c92812B97940E3D8C9B61F4454B8CB6E630B702920660",
       "time":"2016-03-31 20:10:00",
       "user_id":"B97940E3D8C9B61F4454B8CB6E630B70",
-      "product_id":"2920660"
+      "product_id":"2920660",
+      "img":"https://product-images.barneys.com/is/image/Barneys/505555722_1_BagFront?$pdp_flexH$"
    },
    { 
       "order_id":"531f6e566f301413281dbf1b782219966BC882C309E470B5246823BAC1618A5F2920660",
       "time":"2016-04-01 10:51:00",
       "user_id":"6BC882C309E470B5246823BAC1618A5F",
-      "product_id":"2920660"
+      "product_id":"2920660",
+      "img":"https://product-images.barneys.com/is/image/Barneys/505555722_1_BagFront?$pdp_flexH$"
    },
    { 
       "order_id":"7ca7c40753f40addfc02cd3d9a4cfa594FCC33F243D09892B8A19C8F3790BF902920660",
       "time":"2016-04-01 22:35:00",
       "user_id":"4FCC33F243D09892B8A19C8F3790BF90",
-      "product_id":"2920660"
+      "product_id":"2920660",
+      "img":"https://product-images.barneys.com/is/image/Barneys/505555722_1_BagFront?$pdp_flexH$"
    },
    { 
       "order_id":"022ac01c83b085677c4f3ae4346e183b1E17CAFB141C0E2A0610A8104700BE362920660",
       "time":"2016-04-04 14:14:00",
       "user_id":"1E17CAFB141C0E2A0610A8104700BE36",
-      "product_id":"2920660"
+      "product_id":"2920660",
+      "img":"https://product-images.barneys.com/is/image/Barneys/505555722_1_BagFront?$pdp_flexH$"
    }
 ]
