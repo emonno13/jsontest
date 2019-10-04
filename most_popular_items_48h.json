@@ -1,5 +1,5 @@
-{
-    "2395574": {
+[
+    {
         "belong_cate_lvl1_id": 8,
         "belong_cate_lvl2_id": 52,
         "belong_cate_lvl3_id": 59,
@@ -9,7 +9,7 @@
         "price": "450.000đ",
         "shop_name": "Bảo Hộ Lao Động Vũng Tàu"
     },
-    "2819144": {
+   {
         "belong_cate_lvl1_id": 1458,
         "belong_cate_lvl2_id": 1492,
         "belong_cate_lvl3_id": 1494,
@@ -19,7 +19,7 @@
         "price": "114.000đ",
         "shop_name": "VINET"
     },
-    "2911029": {
+    {
         "belong_cate_lvl1_id": 8,
         "belong_cate_lvl2_id": 26,
         "belong_cate_lvl3_id": 699,
@@ -29,7 +29,7 @@
         "price": "340.000đ",
         "shop_name": "Regina Shop"
     },
-    "2997604": {
+    {
         "belong_cate_lvl1_id": 8,
         "belong_cate_lvl2_id": 9,
         "belong_cate_lvl3_id": 12,
@@ -39,7 +39,7 @@
         "price": "85.000đ",
         "shop_name": "Tony Phương"
     },
-    "3059356": {
+    {
         "belong_cate_lvl1_id": 8,
         "belong_cate_lvl2_id": 26,
         "belong_cate_lvl3_id": 699,
@@ -49,7 +49,7 @@
         "price": "390.000đ",
         "shop_name": "TyLy Shop"
     },
-    "3073119": {
+    {
         "belong_cate_lvl1_id": 8,
         "belong_cate_lvl2_id": 26,
         "belong_cate_lvl3_id": 700,
@@ -59,7 +59,7 @@
         "price": "180.000đ",
         "shop_name": "SHOP Ý TƯỞNG"
     },
-    "3100524": {
+    {
         "belong_cate_lvl1_id": 8,
         "belong_cate_lvl2_id": 26,
         "belong_cate_lvl3_id": 699,
@@ -69,7 +69,7 @@
         "price": "475.000đ",
         "shop_name": "Lo Lem Shop"
     },
-    "3210361": {
+    {
         "belong_cate_lvl1_id": 8,
         "belong_cate_lvl2_id": 52,
         "belong_cate_lvl3_id": 54,
@@ -79,7 +79,7 @@
         "price": "23.000đ",
         "shop_name": "Kun93"
     },
-    "3292102": {
+    {
         "belong_cate_lvl1_id": 1458,
         "belong_cate_lvl2_id": 1459,
         "belong_cate_lvl3_id": 1466,
@@ -89,7 +89,7 @@
         "price": "150.000đ",
         "shop_name": "THIẾT BỊ Y TẾ HÀ NỘI"
     },
-    "3373634": {
+    {
         "belong_cate_lvl1_id": 1663,
         "belong_cate_lvl2_id": 1664,
         "belong_cate_lvl3_id": 1665,
@@ -99,4 +99,4 @@
         "price": "1.550.000đ",
         "shop_name": "Bảo Ngọc store"
     }
-}
+]
