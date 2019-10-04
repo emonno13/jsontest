@@ -1,5 +1,5 @@
 [ 
-   {  "product_id": "2395574",
+   {  "product_id": 2395574,
       "belong_cate_lvl1_id":"8",
       "belong_cate_lvl2_id":"52",
       "belong_cate_lvl3_id":"59",
@@ -10,7 +10,7 @@
       "shop_name":"Bảo Hộ Lao Động Vũng Tàu"
    },
    {
-      "product_id":"2819144",
+      "product_id":2819144,
       "belong_cate_lvl1_id":"1458",
       "belong_cate_lvl2_id":"1492",
       "belong_cate_lvl3_id":"1494",
@@ -21,7 +21,7 @@
       "shop_name":"VINET"
    },
    {
-      "product_id":"2911029",
+      "product_id":2911029,
       "belong_cate_lvl1_id":"8",
       "belong_cate_lvl2_id":"26",
       "belong_cate_lvl3_id":"699",
@@ -32,7 +32,7 @@
       "shop_name":"Regina Shop"
    },
    {
-      "product_id":"2997604",
+      "product_id":2997604,
       "belong_cate_lvl1_id":"8",
       "belong_cate_lvl2_id":"9",
       "belong_cate_lvl3_id":"12",
@@ -43,7 +43,7 @@
       "shop_name":"Tony Phương"
    },
     {
-      "product_id":"3059356",
+      "product_id":3059356,
       "belong_cate_lvl1_id":"8",
       "belong_cate_lvl2_id":"26",
       "belong_cate_lvl3_id":"699",
@@ -54,7 +54,7 @@
       "shop_name":"TyLy Shop"
    },
    {
-      "product_id":"3073119",
+      "product_id":3073119,
       "belong_cate_lvl1_id":"8",
       "belong_cate_lvl2_id":"26",
       "belong_cate_lvl3_id":"700",
@@ -65,7 +65,7 @@
       "shop_name":"SHOP Ý TƯỞNG"
    },
   { 
-      "product_id":"3100524",
+      "product_id":3100524,
       "belong_cate_lvl1_id":"8",
       "belong_cate_lvl2_id":"26",
       "belong_cate_lvl3_id":"699",
@@ -76,7 +76,7 @@
       "shop_name":"Lo Lem Shop"
    },
     {
-     "product_id":"3210361",
+     "product_id":3210361,
       "belong_cate_lvl1_id":"8",
       "belong_cate_lvl2_id":"52",
       "belong_cate_lvl3_id":"54",
@@ -87,7 +87,7 @@
       "shop_name":"Kun93"
    },
    { 
-      "product_id":"3292102",
+      "product_id":3292102,
       "belong_cate_lvl1_id":"1458",
       "belong_cate_lvl2_id":"1459",
       "belong_cate_lvl3_id":"1466",
@@ -98,7 +98,7 @@
       "shop_name":"THIẾT BỊ Y TẾ HÀ NỘI"
    },
    {
-      "product_id":"3373634",
+      "product_id":3373634,
       "belong_cate_lvl1_id":"1663",
       "belong_cate_lvl2_id":"1664",
       "belong_cate_lvl3_id":"1665",
